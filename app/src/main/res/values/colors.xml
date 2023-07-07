@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--    BELOW ARE THE TAGS FOR THE CUSTOM MATERIAL PALETTE-->
+    <color name="DARK_PRIMARY_COLOR">@color/md_pink_700</color>
+    <color name="LIGHT_PRIMARY_COLOR">@color/md_pink_100</color>
+    <color name="PRIMARY_COLOR">@color/md_pink_500</color>
+    <color name="TEXT_ICONS">@color/md_white_1000</color>
+    <color name="ACCENT_COLOR">@color/md_indigo_A200</color>
+    <color name="PRIMARY_TEXT">@color/md_grey_900</color>
+    <color name="SECONDARY_TEXT">@color/md_grey_600</color>
+    <color name="DIVIDER_COLOR">@color/md_grey_400</color>
+</resources>

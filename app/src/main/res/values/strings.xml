@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Flicker App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_photo_detail">Photo_Detail_Activity</string>
+    <string name="thumbnail_description">thumbnail for the list</string>
+    <string name="Phtot_detail_discription">big image discriptiom</string>
+    <string name="Photo_Title_text">Title: %s</string>
+    <string name="Photo_Tags_text">Tags: %s</string>
+    <string name="Photo_Author_text">Author: %s</string>
+    <string name="Activity_search">Search</string>
+    <string name="Searchabel_hint">Enter your image Tag</string>
+    <string name="Empty_string">No searchable images are found.\n Use the above Search icon to enter Valid Searching Criteria</string>
+    <string name="Tag_Mode_label">Tag mode</string>
+    <string name="Tag_name_for_ALL">ALL</string>
+    <string name="Tag_name_for_any">ANY</string>
+    <string name="language_LABEL">Language</string>
+    <string name="english_language">English</string>
+    <string name="german_language">German</string>
+    <string name="chinese_language">Chinese</string>
+</resources>
